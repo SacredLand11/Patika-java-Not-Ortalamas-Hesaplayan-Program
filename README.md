@@ -1,0 +1,1 @@
+# Patika-java-Not-Ortalamas-Hesaplayan-Program
